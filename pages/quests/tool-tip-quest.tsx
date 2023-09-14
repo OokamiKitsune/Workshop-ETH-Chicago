@@ -25,7 +25,7 @@ export default function ToolTipQuest() {
                     <div className="ml-4">
                         
                         {/* This is where you will display your tooltip. */}
-                        
+                        <p>Get started coding your tooltip by navigating your IDE to /pages/quests/tool-tip-quest.tsx</p>
 
                     </div>
                 </div>
