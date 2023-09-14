@@ -4,12 +4,14 @@ import ToolTip from "../../components/ToolTip";
 // Welcome to the tool-tip-quest! This quest will teach you how to create a tooltip using React a component.
 // We have provided you with a template to get you started. 
 // We have created our own component called ToolTip that will be used to display your creation on the DOM.
-// Before you implement your own code, enter in the values too the const variables below.
 
-const name = "Tim Palumbo";
-const aboutMe = "I am a software engineer at a company called Ceptor. I am a full stack developer and I love to learn new things.";
-const github = "http://www.github.com/OokamiKitsuneeeeeeeeee";
-const website = "http://www.dot.cards/tjp";
+// Before you implement your own code, you should enter in the values to the const variables below. 
+// Tell us about YOU!
+
+const name = "?";
+const aboutMe = "?";
+const github = "?";
+const website = "?";
 
 
 export default function ToolTipQuest() {
@@ -23,8 +25,8 @@ export default function ToolTipQuest() {
                     <div className="ml-4">
                         
                         {/* This is where you will display your tooltip. */}
-                        <ToolTip content={github + website + aboutMe} children={undefined} defaultContainerClass={undefined} />
-                    
+                        
+
                     </div>
                 </div>
             </div>

@@ -54,8 +54,6 @@ export default function NavbarMdUp() {
 
               </div>
               <div className='fixed bottom-6 ml-6'>
-                <DiceDashboard />
-                <WalletConnectButton />
               </div>
             </>
           ) : null}
