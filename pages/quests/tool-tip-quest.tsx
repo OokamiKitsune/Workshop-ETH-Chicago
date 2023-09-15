@@ -5,7 +5,7 @@ import ToolTipBox from "../../components/TechQuests/ToolTipBox";
 // We have provided you with most of the code you need to get started. 
 // For context: We have created our own component called ToolTipBox that will be used to display some basic information on the DOM.
 // Before you implement your own code, you will need to create a developer object and import it to this file. Simply adding a string is not good practice. 
-// These objects are located in the pages/quest/developers folder.
+// These objects are located in the components/developers folder.
 
 
 export default function ToolTipQuest() {
