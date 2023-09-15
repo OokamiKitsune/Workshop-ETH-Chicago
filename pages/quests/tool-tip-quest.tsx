@@ -1,5 +1,6 @@
 import React from "react";
 import ToolTipBox from "../../components/TechQuests/ToolTipBox";
+import developerGandalf from "../../components/developers/developerTemplate";
 
 // Welcome to the tool-tip-quest! This quest will teach you how to create a tooltip using React components.
 // We have provided you with most of the code you need to get started. 
@@ -16,6 +17,8 @@ export default function ToolTipQuest() {
             <div className="flex flex-col mb-5">
                 <h1 className="text-2xl font-semibold text-center">To begin, open this page in your IDE: /pages/quests/tool-tip-quest</h1>
                 {/* Use the ToolTipBox component and pass developer-specific data as props */}
+                
+
 
 
             </div>
