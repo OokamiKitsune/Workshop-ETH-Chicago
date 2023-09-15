@@ -50,7 +50,7 @@ export default function NavbarMdUp() {
                 <Link href='/games'>Games</Link>
                 <Link href='/tech'>Tech </Link>
                 <Link href='/art'>Art </Link>
-                <Link href='/eth-chicago'>ETH Chicago </Link>
+                
 
               </div>
               <div className='fixed bottom-6 ml-6'>
